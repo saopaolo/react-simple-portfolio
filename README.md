@@ -1,2 +1,2 @@
 # react-simple-portfolio
-Created with CodeSandbox
+simple portfolio web app created with reactjs
